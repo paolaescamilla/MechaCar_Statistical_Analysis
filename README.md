@@ -10,11 +10,14 @@ With this information, the linear regression model for our dataset is:
   vehicle_length = 0.08mpg + 11.43 
   
 When trying to determine the p-value and the r-squared value we get the following output: 
+
 <img width="466" alt="image" src="https://user-images.githubusercontent.com/78698456/120252107-91d92a00-c251-11eb-9e84-22661a20340c.png">
 
 The r-squared value is 0.3715 which means that roughly 30% of the variability of our dependent variable is explained using this linear model. 
 
-In addition, our p-value is 2.632e-06 = 2.63x 10<sup>-6</sup>
+In addition, our p-value 2.63x 10<sup>-6</sup> which is smaller than the assumed significance level of 0.05%.
+
+Considering this data, we can 
 
 
 
