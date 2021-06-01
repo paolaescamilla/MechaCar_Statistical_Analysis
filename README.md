@@ -36,5 +36,24 @@ Lot Summary
 
 This information tells us that the design specifications for the MechaCar suspension have a variance, in regards to the suspension coils, that exceeds the 100 pounds in lot 3, while for lot 1 and 2 they do respect this limit.
 
+## T-Tests on Suspension Coils
+
+When running a t-test between the population and sample tables the outcome is the followinng:
+
+<img width="472" alt="image" src="https://user-images.githubusercontent.com/78698456/120259235-93aae980-c261-11eb-8994-51e9982225fc.png">
+
+## Study Design: MechaCar vs Competition
+
+By running a statistical analysis on the given data the result shows 
+
+
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+In your description, address the following questions:
+What metric or metrics are you going to test?
+What is the null hypothesis or alternative hypothesis?
+What statistical test would you use to test the hypothesis? And why?
+What data is needed to run the statistical test?
+
+
 
 
