@@ -22,4 +22,19 @@ When plotting our data, our linear regression follows the next pattern:
 
 The variables provided show a greater variance as the length of the vehicle increases. The linear model does not predict mpg of MechaCar prototypes effectively as plenty of data points remain in the midle part of the linear regression meaning that not always mpg increases with the length of the vehicle.
 
+## Summary Statistics on Suspension Coils
+
+With a second dataset, which reviews suspension coilsfor the MechaCar, we get the following information:
+
+Total Summary
+
+<img width="343" alt="image" src="https://user-images.githubusercontent.com/78698456/120257682-a53ec200-c25e-11eb-9e0f-431f7a6df299.png">
+
+Lot Summary
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/78698456/120257733-bee00980-c25e-11eb-823e-d8c70e7a1cae.png">
+
+This information tells us that the design specifications for the MechaCar suspension have a variance, in regards to the suspension coils, that exceeds the 100 pounds in lot 3, while for lot 1 and 2 they do respect this limit.
+
+
 
