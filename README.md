@@ -20,6 +20,8 @@ In addition, our p-value 2.63x 10<sup>-6</sup> which is smaller than the assumed
 Considering this data, we can 
 
 
+<img width="525" alt="image" src="https://user-images.githubusercontent.com/78698456/120254324-96a0dc80-c257-11eb-9595-f045b029257d.png">
+
 
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
